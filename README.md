@@ -1,4 +1,4 @@
-![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
+![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
