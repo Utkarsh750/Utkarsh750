@@ -54,6 +54,7 @@ Motivated Front-End Developer with 6 months of hands-on experience in React-base
 ### Oriental Institute of Science and Technology | Bhopal, Madhya Pradesh
 
 - **B.Tech - Information Technology** | 2020 - 2024
+- **Grade - 7.73**
 
 ## 🏆 Achievement
 
