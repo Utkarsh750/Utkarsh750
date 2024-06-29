@@ -1,10 +1,74 @@
 ![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 
-<h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Sharma - Software Engineer🌟</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh750&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh750" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-sharma-1633701b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Utkarsh750/Utkarsh750)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sharmautkarsh750.snp@gmail.com)
+
+## 📜 Summary
+
+Motivated Front-End Developer with 6 months of hands-on experience in React-based applications.Skilled in JavaScript, TypeScript, ReactJs, NodeJs and other Web Frameworks. Demonstrated success in creating and refining web applications,ensuring seamless integration and maximum efficiency.Adept at collaborating effectively within diverse teams. Eager to contribute and grow through my enthusiasm and evolving expertise.
+
+## 💼 Experience
+
+### N3Clouds Pvt. ltd. | Kolkata, West Bengal
+
+#### Front-end Developer | 10/2023 - 03/2024
+
+- Build SaaS tools and adding new feature as per requirement, writing clean and reusable code that scales.
+- Created User-Friendly React Frontend Interface and React routing for boosting user engagement
+- Strong experience with Cross Browser Compatibility issues and Optimisation for web, including CSS Sprites
+  and best practices, Expanded skills by working with GraphQL and TypeScript, enhancing proficiency in
+  modern web development technologies.
+- Implemented advanced form handling using React Hook Form to enhance user interactions and streamline
+  data submission processes, Met Project Deadlines, ensuring prompt task delivery for the success of the project
+
+### LetsGrowMore. | Remote
+
+#### Web Developer | 01/2022 - 02/2022
+
+- Developed a User Card Grid Layout that fetches the results on the API call
+- Frontend (XML) Development, crafting a seamless application structure
+
+## 🛠️ Skills
+
+- Languages: C, C++, JavaScript, TypeScript, Python (Basic)
+- Technologies/Frameworks: ReactJs, NextJs, NodeJs, ExpressJS, MongoDB, GraphQL, Apollo Client, Redux,
+  Tailwind, HTML, CSS, Git/Github, EJS
+- Developer Tools: VS Code, Postman, React Storybook
+- Cloud: Vercel, Netlify, Firebase
+
+## 📂 Have a look my projects -
+
+- Expence Tracker [https://expense-tracker-wzwc.onrender.com/login](https://expense-tracker-wzwc.onrender.com/login)
+- Job Portal App [https://job-portal-frontend-seven.vercel.app/](https://job-portal-frontend-seven.vercel.app/)
+- Blog App [https://blog-app-1-bv46.onrender.com/](https://blog-app-1-bv46.onrender.com/)
+
+## 🎓 Education
+
+### Oriental Institute of Science and Technology | Bhopal, Madhya Pradesh
+
+- **B.Tech - Information Technology** | 2020 - 2024
+
+## 🏆 Achievement
+
+- Secured third place in SIH Hackathon among over 30 teams
+- Solved more than 200+ Question on Leetcode , GFG, CodeChef and other Coding Platforms.
+- Earned HACKERRANK certifications in problem-solving in C++ Programming (Intermediate) and SQL.
+
+## 📞 Contact Information
+
+- **LinkedIn:** [Utkarsh Sharma](https://www.linkedin.com/in/utkarsh-sharma-1633701b9/)
+- **GitHub:** [Utkarsh750](https://github.com/Utkarsh750/Utkarsh750)
+- **Email:** [sharmautkarsh750.snp@gmail.com](mailto:sharmautkarsh750.snp@gmail.com)
+- **Phone:** +91 8709908827
+- **Location:** Samastipur, Bihar
+
+Made with ❤️ by [Utkarsh Sharma](https://github.com/Utkarsh750)
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh750&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh750" /> </p>
 
 <p align="left"> <a href="https://twitter.com/utkarsh3015" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh3015?logo=twitter&style=for-the-badge" alt="utkarsh3015" /></a> </p>
 
@@ -33,4 +97,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh750&show_icons=true&locale=en" alt="utkarsh750" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh750&" alt="utkarsh750" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh750&" alt="utkarsh750" /></p> -->
