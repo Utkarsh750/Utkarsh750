@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma - Software Engineer🌟</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-sharma-1633701b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Utkarsh750/Utkarsh750)
